@@ -1,0 +1,35 @@
+# Villa Rossa Kempinski
+
+A sophisticated, responsive website for a luxury hotel and restaurant. Built with vanilla HTML, CSS, and JavaScript – no frameworks. Features dynamic offer management via localStorage, a reservation system with form validation, and a clean, consistent UI.
+
+![Homepage Screenshot](screenshot-placeholder.jpg)
+
+## ✨ Features
+
+- **Three fully interlinked pages**: Home, Reservations, Admin
+- **Semantic HTML5** (`header`, `nav`, `main`, `section`, `footer`)
+- **Responsive design** – mobile, tablet, desktop with CSS Grid & Flexbox
+- **Persistent data** using `localStorage` (offers and reservations)
+- **Form validation** with clear error messages
+- **Admin panel** to add/delete special offers – changes instantly reflect on homepage
+- **Reservation system** – book a table/room, view your bookings
+- **Elegant typography** (Google Fonts: Playfair Display, Montserrat)
+- **Font Awesome icons** for enhanced visual feedback
+
+## Technologies Used
+
+- HTML5
+- CSS3 (Grid, Flexbox, Media Queries)
+- JavaScript (ES6+)
+- LocalStorage API
+- Git & GitHub
+
+##  How to Run
+. Use the navigation menu to explore:
+   - **Home** – view current offers (populated via Admin)
+   - **Reservations** – fill the form to book; see all your bookings
+   - **Admin** – add new offers (title, description, price, image) – they will appear on Home
+
+All data is stored in your browser's localStorage – no backend required.
+
+## 📁 Project Structu
